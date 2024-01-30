@@ -1,0 +1,26 @@
+[
+  {
+    "phonenumber": "87995796",
+    "idcard": "1010101010",
+    "firstname": "KUL",
+    "lastname": "Monivoth",
+    "address": "Testing address",
+    "gennder": "M"
+  },
+  {
+    "phonenumber": "87777777",
+    "idcard": "1010101010",
+    "firstname": "KUL",
+    "lastname": "Monivoth",
+    "address": "Testing address",
+    "gennder": "M"
+  },
+  {
+    "phonenumber": "98909090",
+    "idcard": "2020202020",
+    "firstname": "Rin",
+    "lastname": "Riya",
+    "address": "Testing address",
+    "gennder": "S"
+  }
+]
